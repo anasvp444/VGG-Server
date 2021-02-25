@@ -4,3 +4,4 @@ env/
 *.jpeg
 
 *.png
+!screen_record.png
